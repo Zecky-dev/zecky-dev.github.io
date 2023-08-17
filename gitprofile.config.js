@@ -30,8 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://doc-14-8g-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/5or7jqqpnmb0l4qmtbgmvs215r9jpe6n/9ept4npia28gdq08kbd331onvjvllch3/1691067375000/3/102161627059726115996/APznzaY54Zvs-lokJpWnceffzlsN-42Myw6DppaQ6tmostyLq7JgzVci19rjL7I3JUJR0h-BxkL4wQnpfTC5jyK3K1LpvI5DL_jR722SXG-FTtqqAhOQiiTN0B8XGMVkWhO0zity8OKFXJAUnODBQOOmmbencgpVnJDhwLN3gJJ_UNi8MyNKMBfHQgDcZHLkGykT1TGz8Hb8cQQsMofmWVMFFXfUY2qnMLi4pKXGUwa6YozOMNgM6idVNaOtPhV5yZ0NK_rZ7i9T0GM3BnJB4JxwkMwpz1P05n8K2U-vtu0CN3KackkEEDcveXDhMLpexGeGmQ90a8rajljm1gJmYlSC_eoFFqtJuSSdogBsryQuJ_Q9m1TKfzLDbW7H3haTdtNIW52PBwn4VX3p6Yq9eSKKfySwYdSR_Q==?authuser=0&nonce=63s6ouql5ohju&user=102161627059726115996&hash=a0sq6n9d3nuo2u6mopdqhngcs1jfimtk', // Empty fileUrl will hide the `Download Resume` button.
-  },
+      'https://drive.google.com/uc?id=1VSfjs04CSrnPWI4JX8tKHuqm7AP0EYcT&export=download',
   skills: [
     'React Native',
     'Kotlin',
