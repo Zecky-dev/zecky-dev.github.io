@@ -31,6 +31,7 @@ const config = {
   resume: {
     fileUrl:
       'https://drive.google.com/uc?id=1VSfjs04CSrnPWI4JX8tKHuqm7AP0EYcT&export=download',
+  },
   skills: [
     'React Native',
     'Kotlin',
