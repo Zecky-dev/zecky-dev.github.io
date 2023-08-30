@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'zekeriya-donmez',
+    linkedin: 'zekeriyadonmez',
     twitter: 'ZekicanDonmez',
     mastodon: '',
     facebook: '',
@@ -19,18 +19,18 @@ const config = {
     youtube: 'ZeckyDev', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'zkcndnmez',
+    medium: 'zekeriyadonmez',
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: '',
     phone: '',
-    email: 'zkcndnmz@gmail.com',
+    email: 'ceng.zekeriyadonmez@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/uc?id=1VSfjs04CSrnPWI4JX8tKHuqm7AP0EYcT&export=download',
+      'https://drive.google.com/uc?id=1edBiukjMfQykR-9McIXsUl0S6hN5RZAk&export=download',
   },
   skills: [
     'React Native',
@@ -69,7 +69,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: 'zkcndnmez', // to hide blog section, keep it empty
+    username: 'zekeriyadonmez', // to hide blog section, keep it empty
     limit: 5, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
